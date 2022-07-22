@@ -1,6 +1,6 @@
 # flappy-bird
 
-A simple battleship game game written in html, css and javascript.
+A simple flappy-bird game game written in html, css and javascript.
 
 [Live Demo](https://chicco4.github.io/flappy-bird/) :point_left:
 
