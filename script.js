@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function jump() {
-    if (birdBottom < 500) birdBottom += 70;
+    if (birdBottom < 500) birdBottom += 80;
     bird.style.bottom = birdBottom + "px";
     console.log(birdBottom);
   }
