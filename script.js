@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  /** @todo add gravity and jump physics */
   function jump() {
     if (birdBottom < 500) birdBottom += 80;
     bird.style.bottom = birdBottom + "px";
